@@ -1,4 +1,4 @@
-public class Taxiservice {
+public class TaxiService {
     int distance;
 
     public int calculateOrder(int distance) {
